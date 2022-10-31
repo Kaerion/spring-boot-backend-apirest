@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.nombreempresa.springboot.app.models.entity.Cliente;
 import com.nombreempresa.springboot.app.models.service.IClienteService;
 
-@CrossOrigin(origins = { "http://localhost:8080" })
+@CrossOrigin(origins = { "http://localhost:4200" })
 @RestController
 @RequestMapping("/api")
 public class ClienteRestController {
