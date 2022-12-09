@@ -5,4 +5,4 @@ INSERT into clientes (nombre, apellido, email, create_at) values ('Legolas', 'De
 INSERT into clientes (nombre, apellido, email, create_at) values ('Frodo', 'Bolson', 'frodo@latierramedia.com', NOW());
 INSERT into clientes (nombre, apellido, email, create_at) values ('Sam', 'Sagaz', 'sam@latierramedia.com', NOW());
 INSERT into clientes (nombre, apellido, email, create_at) values ('Merry', 'Brandigamo', 'merry@latierramedia.com', NOW());
-INSERT into clientes (nombre, apellido, email, create_at) values ('Pipin', 'Tuck', 'aragorn@latierramedia.com', NOW());
+INSERT into clientes (nombre, apellido, email, create_at) values ('Pipin', 'Tuck', 'pipin@latierramedia.com', NOW());
